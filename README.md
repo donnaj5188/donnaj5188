@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donnaj5188
-- 👀 I’m interested in Software Security
-- 🌱 I’m currently learning about LibAFL
+- 👀 I’m much interested in Software Security
+- 🌱 I’m currently learning about LibAFL project
 - 💞️ I’m looking to collaborate on some fuzzing projects
 - 📫 How to reach me donnaj5188ATGMAIL
 - 😄 Pronouns: ...
